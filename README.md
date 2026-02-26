@@ -59,8 +59,8 @@
 
 **AI 도구**
 
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -68,15 +68,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KimHands&show_icons=true&theme=tokyonight&hide_border=true&locale=kr&count_private=true" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHands&layout=compact&theme=tokyonight&hide_border=true&locale=kr" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=KimHands&theme=tokyonight&hide_border=true&locale=ko&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=KimHands&theme=tokyonight&hide_border=true&locale=ko&date_format=j%20M%5B%20Y%5D" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=KimHands&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -87,7 +85,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KimHands-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KimHands)
-[![Gmail](https://img.shields.io/badge/Gmail-kimjonggun0206%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimjonggun0206@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-kimjonggun0206@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimjonggun0206@gmail.com)
 
 </div>
 
