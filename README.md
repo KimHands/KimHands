@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KimHands&style=flat-square&color=blueviolet&label=방문자+수" />
+<img src="https://komarev.com/ghpvc/?username=KimHands&style=for-the-badge&color=blueviolet&label=VISITORS" />
 
 </div>
 
