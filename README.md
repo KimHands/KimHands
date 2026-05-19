@@ -92,8 +92,8 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KimHands&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&card_width=445" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimHands&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KimHands&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KimHands&theme=tokyonight" />
 
 </div>
 
