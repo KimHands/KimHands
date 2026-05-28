@@ -44,14 +44,51 @@ building fast with AI tools and automation workflows.
 
 ## Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript · Python · JavaScript |
-| **Frontend** | React · Next.js · Tailwind · Electron · Vite |
-| **Backend** | FastAPI · Django · Node.js |
-| **Data** | PostgreSQL · SQLite · Supabase |
-| **Infra** | Docker · AWS · Vercel · Nginx · Linux |
-| **AI** | Claude · OpenAI · Gemini · Cursor · n8n |
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-24292F?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Electron](https://img.shields.io/badge/Electron-24292F?style=flat-square&logo=electron&logoColor=47C7E8)
+![Vite](https://img.shields.io/badge/Vite-24292F?style=flat-square&logo=vite&logoColor=646CFF)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-24292F?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=339933)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-24292F?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-24292F?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat-square&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
+
+**AI**
+
+![Claude](https://img.shields.io/badge/Claude-24292F?style=flat-square&logo=claude&logoColor=D97757)
+![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=4285F4)
+![Cursor](https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</div>
 
 <br/>
 
