@@ -33,7 +33,7 @@ building fast with AI tools and automation workflows.
 | Project | Description | Stack |
 |---|---|---|
 | [**DailyAlleyAI**](https://github.com/KimHands/DailyAlleyAI-Promo-ImageOutpainting-Python) | AI promo image & copy generator for small businesses (Likelion 13th hackathon) | FastAPI · Gemini · OpenAI · AWS |
-| [**Hedgehog Seminar**](https://github.com/KimHands/Hedgehog_Seminar) | PPTX auto-analysis & peer-feedback platform for a security lab | Next.js · FastAPI · Supabase |
+| [**labplatform-public**](https://github.com/KimHands/labplatform-public) | Lab collaboration platform — pin-based slide feedback & Korean AI copilot for seminars | Next.js · Supabase · Claude |
 | [**Clasp**](https://github.com/KimHands/clasp) | Privacy-first AI file organizer & mind-map desktop app | Electron · React · FastAPI |
 | [**likelion14-sch**](https://github.com/KimHands/likelion14-sch) | Recruiting, review & operations platform for a dev club | React · Django · Docker |
 | [**ClassFileAuto**](https://github.com/KimHands/ClassFileAuto_Web) | SCH Eclass downloader with SSO RSA auth & secure design | Next.js · iron-session · RSA |
