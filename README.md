@@ -2,9 +2,8 @@
 
 # Jonggun Kim
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full-stack+Developer;Security+Enthusiast;Building+with+AI" alt="Full-stack Developer · Security Enthusiast · Building with AI" />
+**AI Agent Engineer** — I build AI agents and the systems that run them reliably.
 
-<br/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kimhands.github.io-8B5CF6?style=flat-square&logo=githubpages&logoColor=white&labelColor=24292F)](https://kimhands.github.io/)
@@ -18,13 +17,16 @@
 
 ## About
 
-I'm a full-stack developer who cares about user experience, web security, and
-building fast with AI tools and automation workflows.
+I build **AI agents and agentic systems** — orchestration, tool-use, RAG, and the
+evaluation/guardrails that keep them reliable. A systems and security background
+(applied cryptography, formal verification, DRM research) is what lets me build
+agents that don't fall over.
 
-- CSE @ **Soonchunhyang University**
-- Full-stack track organizer @ **Likelion SCH 14th**
-- Security research @ **SCH CSE Hedgehog**
-- Interests — full-stack · vulnerability analysis · cryptography · vibe coding
+- CSE @ **Soonchunhyang University** (3rd year)
+- **[AX CIC] Education Team Intern @ Wrtn (뤼튼)** — authored AI/AX bootcamp curriculum
+- Full-stack track lead @ **Likelion SCH 14th**
+- Security research @ **SCH Hedgehog** — 2 DRM papers (CISC-S'26 accepted)
+- Interests — AI agents · agent orchestration · LLM apps · systems & applied crypto
 
 <br/>
 
@@ -32,13 +34,15 @@ building fast with AI tools and automation workflows.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**DailyAlleyAI**](https://github.com/KimHands/DailyAlleyAI-Promo-ImageOutpainting-Python) | AI promo image & copy generator for small businesses (Likelion 13th hackathon) | FastAPI · Gemini · OpenAI · AWS |
-| [**labplatform-public**](https://github.com/KimHands/labplatform-public) | Lab collaboration platform — pin-based slide feedback & Korean AI copilot for seminars | Next.js · Supabase · Claude |
-| [**Clasp**](https://github.com/KimHands/clasp) | Privacy-first AI file organizer & mind-map desktop app | Electron · React · FastAPI |
-| [**likelion14-sch**](https://github.com/KimHands/likelion14-sch) | Recruiting, review & operations platform for a dev club | React · Django · Docker |
-| [**ClassFileAuto**](https://github.com/KimHands/ClassFileAuto_Web) | SCH Eclass downloader with SSO RSA auth & secure design | Next.js · iron-session · RSA |
-| [**GrowthLens**](https://github.com/KimHands/growthlens) | STL time-series habit tracker PWA (Likelion 14th ideathon) | Next.js · FastAPI · statsmodels |
-| [**Hedgehog WebCTF**](https://github.com/KimHands/Hedgehog_WebCTF) | Hands-on Web CTF platform for club expos & open labs | Next.js · TypeScript · Web Security |
+| [**labplatform**](https://github.com/KimHands/labplatform-public) | Lab collaboration platform — agentic seminar feedback: pin comments on slide PDFs + a Claude copilot for Korean academic editing | Next.js · Supabase · Claude |
+| [**hwpx-toolkit**](https://github.com/KimHands/hwpx-toolkit) | A Claude Code + Codex skill that reads and edits HWPX (Korean) documents without corruption — deterministic scripts with model-driven steps | Python · Claude Code |
+| [**likelion14-sch**](https://github.com/KimHands/likelion14-sch) | Recruiting, review & operations platform for a dev club — a real service on a custom domain | React · Django · Docker |
+| [**ClassFileAuto**](https://github.com/KimHands/ClassFileAuto_Web) | SCH Eclass downloader with SSO RSA auth, credential non-storage, and a documented threat model | Next.js · iron-session · RSA |
+| [**clasp**](https://github.com/KimHands/clasp) | Privacy-first AI file organizer & mind-map desktop app | Electron · React · FastAPI |
+| [**Hedgehog WebCTF**](https://github.com/KimHands/Hedgehog_WebCTF) | A hands-on Web CTF platform I authored & operated for club expos | Next.js · Web Security |
+
+> **KeylessPlay** (capstone) — a Widevine L3 CEK-less streaming gateway using per-session
+> edge re-encryption; the reference implementation of my DRM papers. *Private, opening 2026-11.*
 
 <br/>
 
@@ -51,6 +55,14 @@ building fast with AI tools and automation workflows.
 ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**AI / Agents**
+
+![Claude](https://img.shields.io/badge/Claude-24292F?style=flat-square&logo=claude&logoColor=D97757)
+![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=4285F4)
+![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Cursor](https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white)
 
 **Frontend**
 
@@ -79,14 +91,6 @@ building fast with AI tools and automation workflows.
 ![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat-square&logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
-
-**AI**
-
-![Claude](https://img.shields.io/badge/Claude-24292F?style=flat-square&logo=claude&logoColor=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=4285F4)
-![Cursor](https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 </div>
 
