@@ -34,12 +34,14 @@ agents that don't fall over.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**labplatform**](https://github.com/KimHands/labplatform-public) | Lab collaboration platform — agentic seminar feedback: pin comments on slide PDFs + a Claude copilot for Korean academic editing | Next.js · Supabase · Claude |
+| [**opsmith**](https://github.com/KimHands/opsmith) | The operating layer I run my own agents on — always-injected rules, local memory, and cross-vendor verification for Claude Code | Shell · Python · Claude Code |
+| **labplatform** · _private_ | Lab collaboration platform — agentic seminar feedback: pin comments on slide PDFs + a Claude copilot for Korean academic editing | Next.js · Supabase · Claude |
 | [**hwpx-toolkit**](https://github.com/KimHands/hwpx-toolkit) | A Claude Code + Codex skill that reads and edits HWPX (Korean) documents without corruption — deterministic scripts with model-driven steps | Python · Claude Code |
+| [**ccpilot**](https://github.com/KimHands/ccpilot) | Per-project Claude Code setup toolkit — plugin/agent presets, phase playbooks, and agent routing | Shell · Python |
 | [**likelion14-sch**](https://github.com/KimHands/likelion14-sch) | Recruiting, review & operations platform for a dev club — a real service on a custom domain | React · Django · Docker |
-| [**ClassFileAuto**](https://github.com/KimHands/ClassFileAuto_Web) | SCH Eclass downloader with SSO RSA auth, credential non-storage, and a documented threat model | Next.js · iron-session · RSA |
+| [**ClassFileAuto**](https://class-file-auto-web.vercel.app) · _private_ | SCH Eclass downloader with SSO RSA auth, credential non-storage, and a documented threat model | Next.js · iron-session · RSA |
 | [**clasp**](https://github.com/KimHands/clasp) | Privacy-first AI file organizer & mind-map desktop app | Electron · React · FastAPI |
-| [**Hedgehog WebCTF**](https://github.com/KimHands/Hedgehog_WebCTF) | A hands-on Web CTF platform I authored & operated for club expos | Next.js · Web Security |
+| **Hedgehog WebCTF** · _private_ | A hands-on Web CTF platform I authored & operated for club expos | Next.js · Web Security |
 
 > **KeylessPlay** (capstone) — a Widevine L3 CEK-less streaming gateway using per-session
 > edge re-encryption; the reference implementation of my DRM papers. *Private, opening 2026-11.*
