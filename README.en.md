@@ -16,23 +16,6 @@
 
 ![Evidence map of agents, verification, security, and operations by project](./assets/work-map.en.svg)
 
-<details>
-<summary>View as a table</summary>
-
-| Project | Agents | Verified | Security | Ops |
-|---|---|---|---|---|
-| HyperChecker | Evidence | Evidence | Evidence | Evidence |
-| opsmith | Evidence | Evidence | Partial | Partial |
-| hwpx-toolkit | Evidence | Evidence | None | Partial |
-| humanize-korean-formal | Evidence | Evidence | None | None |
-| islab-platform | Partial | Evidence | Evidence | Evidence |
-| Bridge | Partial | Evidence | Evidence | Partial |
-| KeylessPlay | None | Evidence | Evidence | None |
-| Hedgehog WebCTF | None | Evidence | Evidence | Evidence |
-| ClassFileAuto | None | None | Evidence | Evidence |
-
-</details>
-
 ## Flagship: HyperChecker
 
 Send an Instagram Reel by DM, and this agent checks the developer tools it mentions against public sources and replies.
@@ -65,7 +48,7 @@ flowchart LR
 - DRM security research with Tamarin formal verification (CISC-S'26 accepted)
 - [AX CIC] Education Team Intern at Wrtn: authored AI/AX bootcamp curriculum
 - Full-stack track lead at Likelion SCH, 14th cohort
-- CSE at Soonchunhyang University (3rd year), security research at SCH Hedgehog
+- CSE at Soonchunhyang University (4th year), security research at SCH Hedgehog
 
 ## Stack
 

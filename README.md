@@ -16,23 +16,6 @@
 
 ![프로젝트별 에이전트·검증·보안·운영 근거 지도](./assets/work-map.svg)
 
-<details>
-<summary>표로 보기</summary>
-
-| 프로젝트 | 에이전트 | 검증 | 보안 | 운영 |
-|---|---|---|---|---|
-| HyperChecker | 근거 있음 | 근거 있음 | 근거 있음 | 근거 있음 |
-| opsmith | 근거 있음 | 근거 있음 | 일부 | 일부 |
-| hwpx-toolkit | 근거 있음 | 근거 있음 | 없음 | 일부 |
-| humanize-korean-formal | 근거 있음 | 근거 있음 | 없음 | 없음 |
-| islab-platform | 일부 | 근거 있음 | 근거 있음 | 근거 있음 |
-| Bridge | 일부 | 근거 있음 | 근거 있음 | 일부 |
-| KeylessPlay | 없음 | 근거 있음 | 근거 있음 | 없음 |
-| Hedgehog WebCTF | 없음 | 근거 있음 | 근거 있음 | 근거 있음 |
-| ClassFileAuto | 없음 | 없음 | 근거 있음 | 근거 있음 |
-
-</details>
-
 ## 대표작: HyperChecker
 
 인스타그램 릴스를 DM으로 보내면, 소개된 개발 도구를 공개 자료로 확인해 답장하는 에이전트입니다.
@@ -65,7 +48,7 @@ flowchart LR
 - DRM 보안 연구: Tamarin 형식 검증 (CISC-S'26 채택)
 - 뤼튼 [AX CIC] 교육팀 인턴: AI·AX 부트캠프 교안 제작
 - 멋쟁이사자처럼 순천향대 14기 풀스택 파트장
-- 순천향대 컴퓨터소프트웨어공학과 3학년 · Hedgehog 보안 연구
+- 순천향대 컴퓨터소프트웨어공학과 4학년 · Hedgehog 보안 연구
 
 ## 기술 스택
 
