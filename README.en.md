@@ -43,7 +43,7 @@ flowchart LR
     B --> C[Find official source]
     C --> D[Read-only measurement]
     D --> E[Compare claims]
-    E --> F[Rule-based verdict]
+    E --> F[Rule verdict]
 ```
 
 - **Verification:** Evaluated on 32 human-labeled cases with a holdout set. The limits are published with the results.
@@ -57,7 +57,7 @@ flowchart LR
 | Area | Projects |
 |---|---|
 | Agent tooling | [opsmith](https://github.com/KimHands/opsmith) · [hwpx-toolkit](https://github.com/KimHands/hwpx-toolkit) · [humanize-korean-formal](https://github.com/KimHands/humanize-korean-formal) |
-| Services | [Bridge](https://github.com/KimHands/bridge) · [SCH-Meet](https://github.com/KimHands/SCH-Meet) · islab-platform (private) |
+| Services | [Bridge](https://github.com/KimHands/bridge) · [sch-meet](https://github.com/KimHands/sch-meet) · islab-platform (private) |
 | Security | KeylessPlay (private) · [Hedgehog WebCTF](https://hedgehog-server.tail53c7cd.ts.net:10000/) · [ClassFileAuto](https://class-file-auto-web.vercel.app) |
 
 ## Experience

@@ -43,7 +43,7 @@ flowchart LR
     B --> C[공식 위치 식별]
     C --> D[읽기 전용 측정]
     D --> E[주장 대조]
-    E --> F[코드 규칙으로 판정]
+    E --> F[규칙 판정]
 ```
 
 - **검증:** 사람이 판정한 정답셋 32건과 홀드아웃으로 평가하고, 한계까지 함께 공개합니다.
@@ -57,7 +57,7 @@ flowchart LR
 | 분야 | 프로젝트 |
 |---|---|
 | 에이전트 도구 | [opsmith](https://github.com/KimHands/opsmith) · [hwpx-toolkit](https://github.com/KimHands/hwpx-toolkit) · [humanize-korean-formal](https://github.com/KimHands/humanize-korean-formal) |
-| 서비스 | [Bridge](https://github.com/KimHands/bridge) · [SCH-Meet](https://github.com/KimHands/SCH-Meet) · islab-platform (비공개) |
+| 서비스 | [Bridge](https://github.com/KimHands/bridge) · [sch-meet](https://github.com/KimHands/sch-meet) · islab-platform (비공개) |
 | 보안 | KeylessPlay (비공개) · [Hedgehog WebCTF](https://hedgehog-server.tail53c7cd.ts.net:10000/) · [ClassFileAuto](https://class-file-auto-web.vercel.app) |
 
 ## 활동
