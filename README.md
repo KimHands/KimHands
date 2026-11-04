@@ -1,123 +1,85 @@
 <div align="center">
 
-# Jonggun Kim
+# 김종건 · Jonggun Kim
 
-**AI Agent Engineer** — I build AI agents and the systems that run them reliably.
+**보안 도메인에서 동작하는 견고한 AI 에이전트·MCP 개발자**
 
-<br/>
+**한국어** · [English](./README.en.md)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kimhands.github.io-8B5CF6?style=flat-square&logo=githubpages&logoColor=white&labelColor=24292F)](https://kimhands.github.io/)
 [![Velog](https://img.shields.io/badge/Velog-@kimhands-8B5CF6?style=flat-square&logo=velog&logoColor=white&labelColor=24292F)](https://velog.io/@kimhands/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-KimHands-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=24292F)](https://github.com/KimHands)
 [![Email](https://img.shields.io/badge/Email-contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=24292F)](mailto:kimjonggun0206@gmail.com)
 
 </div>
 
 <br/>
 
-## About
+![프로젝트별 에이전트·검증·보안·운영 근거 지도](./assets/work-map.svg)
 
-I build **AI agents and agentic systems** — orchestration, tool-use, RAG, and the
-evaluation/guardrails that keep them reliable. A systems and security background
-(applied cryptography, formal verification, DRM research) is what lets me build
-agents that don't fall over.
+<details>
+<summary>표로 보기</summary>
 
-- CSE @ **Soonchunhyang University** (3rd year)
-- **[AX CIC] Education Team Intern @ Wrtn (뤼튼)** — authored AI/AX bootcamp curriculum
-- Full-stack track lead @ **Likelion SCH 14th**
-- Security research @ **SCH Hedgehog** — 2 DRM papers (CISC-S'26 accepted)
-- Interests — AI agents · agent orchestration · LLM apps · systems & applied crypto
+| 프로젝트 | 에이전트 | 검증 | 보안 | 운영 |
+|---|---|---|---|---|
+| HyperChecker | 근거 있음 | 근거 있음 | 근거 있음 | 근거 있음 |
+| opsmith | 근거 있음 | 근거 있음 | 일부 | 일부 |
+| hwpx-toolkit | 근거 있음 | 근거 있음 | 없음 | 일부 |
+| humanize-korean-formal | 근거 있음 | 근거 있음 | 없음 | 없음 |
+| islab-platform | 일부 | 근거 있음 | 근거 있음 | 근거 있음 |
+| Bridge | 일부 | 근거 있음 | 근거 있음 | 일부 |
+| KeylessPlay | 없음 | 근거 있음 | 근거 있음 | 없음 |
+| Hedgehog WebCTF | 없음 | 근거 있음 | 근거 있음 | 근거 있음 |
+| ClassFileAuto | 없음 | 없음 | 근거 있음 | 근거 있음 |
 
-<br/>
+</details>
 
-## Selected Work
+## 대표작: HyperChecker
 
-| Project | Description | Stack |
-|---|---|---|
-| [**opsmith**](https://github.com/KimHands/opsmith) | The operating layer I run my own agents on — always-injected rules, local memory, and cross-vendor verification for Claude Code | Shell · Python · Claude Code |
-| **labplatform** · _private_ | Lab collaboration platform — agentic seminar feedback: pin comments on slide PDFs + a Claude copilot for Korean academic editing | Next.js · Supabase · Claude |
-| [**hwpx-toolkit**](https://github.com/KimHands/hwpx-toolkit) | A Claude Code + Codex skill that reads and edits HWPX (Korean) documents without corruption — deterministic scripts with model-driven steps | Python · Claude Code |
-| [**ccpilot**](https://github.com/KimHands/ccpilot) | Per-project Claude Code setup toolkit — plugin/agent presets, phase playbooks, and agent routing | Shell · Python |
-| [**likelion14-sch**](https://github.com/KimHands/likelion14-sch) | Recruiting, review & operations platform for a dev club — a real service on a custom domain | React · Django · Docker |
-| [**ClassFileAuto**](https://class-file-auto-web.vercel.app) · _private_ | SCH Eclass downloader with SSO RSA auth, credential non-storage, and a documented threat model | Next.js · iron-session · RSA |
-| [**clasp**](https://github.com/KimHands/clasp) | Privacy-first AI file organizer & mind-map desktop app | Electron · React · FastAPI |
-| **Hedgehog WebCTF** · _private_ | A hands-on Web CTF platform I authored & operated for club expos | Next.js · Web Security |
+인스타그램 릴스를 DM으로 보내면, 소개된 개발 도구를 공개 자료로 확인해 답장하는 에이전트입니다.
 
-> **KeylessPlay** (capstone) — a Widevine L3 CEK-less streaming gateway using per-session
-> edge re-encryption; the reference implementation of my DRM papers. *Private, opening 2026-11.*
+```mermaid
+flowchart LR
+    A[릴스 DM] --> B[도구 추출]
+    B --> C[공식 위치 식별]
+    C --> D[읽기 전용 측정]
+    D --> E[주장 대조]
+    E --> F[코드 규칙으로 판정]
+```
 
-<br/>
+- **검증:** 사람이 판정한 정답셋 32건과 홀드아웃으로 평가하고, 한계까지 함께 공개합니다.
+- **가드레일:** 게시물은 신뢰하지 않는 입력으로 격리하고, 판정 대상은 실행하지 않습니다.
+- **운영:** 공개 서비스로 운영하며, 실제 답장 로그로 찾은 문제를 고쳤습니다.
 
-## Stack
+[레포](https://github.com/KimHands/hype-checker) · [@hyper_checker](https://www.instagram.com/hyper_checker/)
 
-<div align="center">
+## 그 외
 
-**Languages**
+| 분야 | 프로젝트 |
+|---|---|
+| 에이전트 도구 | [opsmith](https://github.com/KimHands/opsmith) · [hwpx-toolkit](https://github.com/KimHands/hwpx-toolkit) · [humanize-korean-formal](https://github.com/KimHands/humanize-korean-formal) |
+| 서비스 | [Bridge](https://github.com/KimHands/bridge) · [SCH-Meet](https://github.com/KimHands/SCH-Meet) · islab-platform (비공개) |
+| 보안 | KeylessPlay (비공개) · [Hedgehog WebCTF](https://hedgehog-server.tail53c7cd.ts.net:10000/) · [ClassFileAuto](https://class-file-auto-web.vercel.app) |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6)
+## 활동
+
+- DRM 보안 연구: Tamarin 형식 검증 (CISC-S'26 채택)
+- 뤼튼 [AX CIC] 교육팀 인턴: AI·AX 부트캠프 교안 제작
+- 멋쟁이사자처럼 순천향대 14기 풀스택 파트장
+- 순천향대 컴퓨터소프트웨어공학과 3학년 · Hedgehog 보안 연구
+
+## 기술 스택
+
 ![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-**AI / Agents**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Claude](https://img.shields.io/badge/Claude-24292F?style=flat-square&logo=claude&logoColor=D97757)
 ![OpenAI](https://img.shields.io/badge/OpenAI-24292F?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=4285F4)
-![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Cursor](https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-24292F?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Electron](https://img.shields.io/badge/Electron-24292F?style=flat-square&logo=electron&logoColor=47C7E8)
-![Vite](https://img.shields.io/badge/Vite-24292F?style=flat-square&logo=vite&logoColor=646CFF)
-
-**Backend**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-24292F?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=339933)
-
-**Data**
-
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-24292F?style=flat-square&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-24292F?style=flat-square&logo=supabase&logoColor=3ECF8E)
-
-**Infra**
-
 ![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat-square&logo=nginx&logoColor=009639)
+![Kubernetes](https://img.shields.io/badge/k3s-24292F?style=flat-square&logo=k3s&logoColor=FFC61C)
 ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=FCC624)
-
-</div>
-
-<br/>
-
-## Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KimHands&hide_border=true&area=true&bg_color=00000000&color=E6EDF3&line=8B5CF6&point=8B5CF6&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimHands&hide_border=true&area=true&bg_color=00000000&color=1F2328&line=8B5CF6&point=8B5CF6&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-## Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kimhands.github.io-8B5CF6?style=flat-square&logo=githubpages&logoColor=white&labelColor=24292F)](https://kimhands.github.io/)
-[![Velog](https://img.shields.io/badge/Velog-@kimhands-8B5CF6?style=flat-square&logo=velog&logoColor=white&labelColor=24292F)](https://velog.io/@kimhands/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-KimHands-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=24292F)](https://github.com/KimHands)
-[![Email](https://img.shields.io/badge/Email-kimjonggun0206@gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=24292F)](mailto:kimjonggun0206@gmail.com)
-
-</div>
