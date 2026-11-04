@@ -40,7 +40,7 @@ flowchart LR
 | 분야 | 프로젝트 |
 |---|---|
 | 에이전트 도구 | [opsmith](https://github.com/KimHands/opsmith) · [hwpx-toolkit](https://github.com/KimHands/hwpx-toolkit) · [humanize-korean-formal](https://github.com/KimHands/humanize-korean-formal) |
-| 서비스 | [Bridge](https://github.com/KimHands/bridge) · [sch-meet](https://github.com/KimHands/sch-meet) · islab-platform (비공개) |
+| 서비스 | [Bridge](https://github.com/KimHands/bridge) · [sch-meet](https://github.com/KimHands/sch-meet) · [clasp](https://github.com/KimHands/clasp) · [islab-platform](https://isl-hedgehog.com/) |
 | 보안 | KeylessPlay (비공개) · [Hedgehog WebCTF](https://hedgehog-server.tail53c7cd.ts.net:10000/) · [ClassFileAuto](https://class-file-auto-web.vercel.app) |
 
 ## 활동
