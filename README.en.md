@@ -40,6 +40,7 @@ flowchart LR
 | Area | Projects |
 |---|---|
 | Agent tooling | [opsmith](https://github.com/KimHands/opsmith) · [hwpx-toolkit](https://github.com/KimHands/hwpx-toolkit) · [humanize-korean-formal](https://github.com/KimHands/humanize-korean-formal) |
+| MCP | [clasp read-only MCP server](https://github.com/KimHands/clasp/blob/main/docs/mcp.md) |
 | Services | [Bridge](https://github.com/KimHands/bridge) · [sch-meet](https://github.com/KimHands/sch-meet) · [clasp](https://github.com/KimHands/clasp) · [islab-platform](https://isl-hedgehog.com/) |
 | Security | KeylessPlay (private) · [Hedgehog WebCTF](https://hedgehog-server.tail53c7cd.ts.net:10000/) · [ClassFileAuto](https://class-file-auto-web.vercel.app) |
 
