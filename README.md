@@ -6,7 +6,7 @@
 
 **한국어** · [English](./README.en.md)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kimhands.github.io-8B5CF6?style=flat-square&logo=githubpages&logoColor=white&labelColor=24292F)](https://kimhands.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimhands.com-8B5CF6?style=flat-square&logo=githubpages&logoColor=white&labelColor=24292F)](https://kimhands.com/)
 [![Velog](https://img.shields.io/badge/Velog-@kimhands-8B5CF6?style=flat-square&logo=velog&logoColor=white&labelColor=24292F)](https://velog.io/@kimhands/posts)
 [![Email](https://img.shields.io/badge/Email-contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white&labelColor=24292F)](mailto:kimjonggun0206@gmail.com)
 
